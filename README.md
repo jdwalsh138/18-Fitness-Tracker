@@ -23,38 +23,36 @@ Download, clone, or fork the repo and run an `npm install` command in the folder
 
 To start the application, run `npm start` on the command line.
 
-Alternatively, visit the online version deployed on Heroku [here](https://workout-fitness-app-1.herokuapp.com/). `NOTE: THE HEROKU VERSION IS NOT CURRENTLY WORKING.`
-
 
 
 ## Usage
 
-To start the application, run `npm start` on the command line or [visit the deployed version on Heroku](https://workout-fitness-app-1.herokuapp.com/). `NOTE: THE HEROKU VERSION IS NOT CURRENTLY WORKING.`
+To start the application, run `npm start` on the command line or [visit the deployed version on Heroku](https://workout-fitness-app-1.herokuapp.com/).
 
 <p align="center">
-    <img alt="Main landing page" src="https://raw.githubusercontent.com/highwolfx/fitness-tracker/main/public/assets/main.jpg">
+    <img alt="Main landing page" src="">
 </p>
 From the main page, you can choose to start a new workout or continue an existing workout. Alternatively, you can also select to go to the Dashboard in the upper left. Selecting the "Fitness Tracker" will take you bac to this main page.
 
 
 There are 2 types of exercises: Cardio and Resistance.
 <p align="center">
-    <img alt="Types of exercises" src="https://raw.githubusercontent.com/highwolfx/fitness-tracker/main/public/assets/types.jpg">
+    <img alt="Types of exercises" src="">
 </p>
 
 With Resistance selected, you are required to fill in the exercise name, weight, sets, reps, and duration in minutes.
 <p align="center">
-    <img alt="Resistance Example" src="https://raw.githubusercontent.com/highwolfx/fitness-tracker/main/public/assets/cardio.jpg">
+    <img alt="Resistance Example" src="">
 </p>
 
 With Cardio selected, you are required to fill in the exercise name, distance in miles, and duration in minutes.
 <p align="center">
-    <img alt="Types of exercises" src="https://raw.githubusercontent.com/highwolfx/fitness-tracker/main/public/assets/types.jpg">
+    <img alt="Types of exercises" src="">
 </p>
 
 On the Dashboard page, you can view the history of workouts completed. Hovering over the data will display more information.
 <p align="center">
-    <img alt="Exercise Dashboard" src="https://raw.githubusercontent.com/highwolfx/fitness-tracker/main/public/assets/dashboard.jpg">
+    <img alt="Exercise Dashboard" src="">
 </p>
 
 
@@ -64,16 +62,9 @@ Licensed under the [MIT](LICENSE.txt) license.
 
 
 ## Credits
-Base development files were provided by the [UCSD Coding Bootcamp](https://bootcamp.extension.ucsd.edu/coding/).
 
 The package `express` for NodeJS can be found [here](https://www.npmjs.com/package/express).
 
 The package `mongoose` for NodeJS can be found [here](https://www.npmjs.com/package/mongoose).
 
 The package `morgan` for NodeJS can be found [here](https://www.npmjs.com/package/morgan).
-
-
-## Questions
-GitHub: [highwolfx](https://github.com/highwolfx/)
-
-Email: seanchangx@gmail.com
