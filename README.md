@@ -30,29 +30,29 @@ To start the application, run `npm start` on the command line.
 To start the application, run `npm start` on the command line or [visit the deployed version on Heroku](https://cryptic-refuge-65885.herokuapp.com/).
 
 <p align="center">
-    <img alt="Main landing page" src="">
+    <img alt="Main landing page" src="./develop/public/assets/main.jpg">
 </p>
 From the main page, you can choose to start a new workout or continue an existing workout. Alternatively, you can also select to go to the Dashboard in the upper left. Selecting the "Fitness Tracker" will take you bac to this main page.
 
 
 There are 2 types of exercises: Cardio and Resistance.
 <p align="center">
-    <img alt="Types of exercises" src="">
+    <img alt="Types of exercises" src="./develop/public/assets/types.jpg">
 </p>
 
 With Resistance selected, you are required to fill in the exercise name, weight, sets, reps, and duration in minutes.
 <p align="center">
-    <img alt="Resistance Example" src="">
+    <img alt="Resistance Example" src="./develop/public/assets/resistance.jpg">
 </p>
 
 With Cardio selected, you are required to fill in the exercise name, distance in miles, and duration in minutes.
 <p align="center">
-    <img alt="Types of exercises" src="">
+    <img alt="Types of exercises" src="./develop/public/assets/cardio.jpg">
 </p>
 
 On the Dashboard page, you can view the history of workouts completed. Hovering over the data will display more information.
 <p align="center">
-    <img alt="Exercise Dashboard" src="">
+    <img alt="Exercise Dashboard" src="./develop/public/assets/dashboard.jpg">
 </p>
 
 
