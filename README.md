@@ -27,7 +27,7 @@ To start the application, run `npm start` on the command line.
 
 ## Usage
 
-To start the application, run `npm start` on the command line or [visit the deployed version on Heroku](https://fitness-tracker-by-jack.herokuapp.com/).
+To start the application, run `npm start` on the command line or [visit the deployed version on Heroku](https://cryptic-refuge-65885.herokuapp.com/).
 
 <p align="center">
     <img alt="Main landing page" src="">
